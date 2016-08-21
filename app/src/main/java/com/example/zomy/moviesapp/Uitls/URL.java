@@ -8,7 +8,7 @@ import android.util.Log;
  * ZoMy on 8/13/2016.
  */
 public class URL {
-    private static final String API_KEY_VALUE = "4bd3dc7edbd1fed6f43443fb9f2ebc1f";
+    private static final String API_KEY_VALUE = "";
     private static final String BASE_URL = "https://api.themoviedb.org/3/";
     private static final String MOVIE = "movie";
     private static final String PAGE = "page";
