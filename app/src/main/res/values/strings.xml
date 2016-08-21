@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="sort">Sort By</string>
+    <string name="popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="pref_sort">Sort</string>
+    <string name="cancel">Cancel</string>
+    <string name="mark_as_fav">MARK AS\nFAVORITE</string>
+    <string name="set">Set</string>
+    <string name="trailers">Trailers:</string>
+
+
+    <string name="movie_receiver_action">com.example.zomy.moviesapp.intent.action.MOVIE_LIST</string>
+    <string name="movie_details_receiver_action">com.example.zomy.moviesapp.intent.action.MOVIE_DETAILS</string>
+
+    <string-array name="sort_array">
+        <item>@string/popular</item>
+        <item>@string/top_rated</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
